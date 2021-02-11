@@ -1,0 +1,7 @@
+main*
+.ccls-cache/
+pft/
+*.out
+*.o
+*.a
+pft/
